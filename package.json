@@ -2,7 +2,7 @@
   "name": "redux-bookstore",
   "version": "1.0.0",
   "description": "Simple bookstore built with React and Redux",
-  "main": "index.js",
+  "main": "index.jsx",
   "repository": "git@github.com:jcelder/redux-bookstore.git",
   "scripts": {
     "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js",
